@@ -1,0 +1,1 @@
+export GOOGLE_APPLICATION_CREDENTIALS="/Users/andrewshao/Desktop/acadeME-HTV/optical-mind-327913-cb722cf05a13.json"

@@ -1,0 +1,3 @@
+storage
+<all_tabs>
+activeTab
